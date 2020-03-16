@@ -1,11 +1,159 @@
-CMakeLists.txt.user
-CMakeCache.txt
-CMakeFiles
-CMakeScripts
-Testing
-Makefile
-cmake_install.cmake
-install_manifest.txt
-compile_commands.json
-CTestTestfile.cmake
-_deps
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+.ipynb_checkpoints
+
+MANIFEST
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# Scrapy stuff:
+.scrapy
+
+# Sphinx documentation
+docs/_build/
+
+# PyBuilder
+target/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# pyenv
+.python-version
+
+# celery beat schedule file
+celerybeat-schedule
+
+# SageMath parsed files
+*.sage.py
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+L2/.ipynb_checkpoints/L2-checkpoint.ipynb
+
+opencv/cvpython/bin/python
+
+opencv/cvpython/bin/python3
+
+opencv/cvpython/bin/python3.7
+
+opencv/cvpython/include/python3.7m
+
+opencv/opencv_contrib/
+
+opencv/opencv/
+
+L3/disparity-with-graph-cuts/
+
+L4/test.py
+
+L4/imgs/house.png
+
+L4/finalimage.png
+
+L4/corners.txt
+
+L7/deepgaze/
+
+L7/imgs/cows_output.avi
+
+L8/ultraking/
+
+L8/viola-jones-adaboost/*.pickle
+L8/face_gender/nottingham/*
+
+L8/markov.dot
+
+L8/Gesture-Recognition-Using-Hidden-Markov-Models/
+
+
+L8/hidden_markov.dot
+
+L9/imgs/messi_full_magic.MOV
+
+L3/imgs/zvmi3_b.gif
